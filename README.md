@@ -1,4 +1,5 @@
-### MLOps using Dockers, Flask, Postman, Github Actions and Heroku 
+### MLOps : Machine Learning Model Deployment to Cloud using Dockers, Github Actions and Heroku 
+### Post API testing using Flask and Postman 
 
 ### Software and Tools Requirements
 
