@@ -1,4 +1,4 @@
-### MLOps using Dockers, Github Actions and Heroku : AmesHousePricing
+### MLOps using Dockers, Github Actions and Heroku 
 
 ### Software and Tools Requirements
 
