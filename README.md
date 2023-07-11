@@ -1,4 +1,4 @@
-### MLOps using Dockers, Postman, Github Actions and Heroku 
+### MLOps using Dockers, Flask, Postman, Github Actions and Heroku 
 
 ### Software and Tools Requirements
 
